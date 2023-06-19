@@ -1,1 +1,1 @@
-export const stakingContractAddress = "0xB0880D6f2Cc4eDE914BB73474f945cb428e8215A";
+export const stakingContractAddress = "0x81dB4c796781489f9Eed63C2965156b0533Ab5e2";
