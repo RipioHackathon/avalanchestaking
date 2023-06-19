@@ -5,7 +5,7 @@
     <br>
 <p>
 
-## Dapp de staking en Rootstock.
+## Dapp de staking en Avalanche Fuji.
 
 
 ### Relevant links
@@ -30,15 +30,6 @@ En este caso, el usuario puede ahorrar en un token ERC-20 y recibir recompensas 
 <p align="center">
     <br>
     <img src="img/demo.png" width="500"/>
-    <br>
-<p>
-
-### El futuro de los pagos es decentralizado
-Agregamos a nuestro primer MVP de pagos p2p: https://simplecrypto.cash la posibilidad de que cualquier comercio pueda aceptar pagos en DOC (Dollar on Chain).
-
-<p align="center">
-    <br>
-    <img src="img/doc.png" width="500"/>
     <br>
 <p>
 

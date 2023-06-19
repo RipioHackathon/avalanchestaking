@@ -87,7 +87,7 @@ export default function Home() {
       </p>
 
       <p className={styles.description}>
-        Estamos interactuando en la blockchain RSK Testnet. Los tokens no tienen valor. Su uso es para fines educativos. 
+        Estamos interactuando en la blockchain Avalanche Fuji. Los tokens no tienen valor. Su uso es para fines educativos. 
       </p>
       <div className={styles.connect}>
         <ConnectWallet />

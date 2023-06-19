@@ -1,5 +1,5 @@
 import { ThirdwebProvider } from "@thirdweb-dev/react";
-import { RskTestnet } from "@thirdweb-dev/chains";
+import { AvalancheFuji} from "@thirdweb-dev/chains";
 import "../styles/globals.css";
 
 // This is the chain your dApp will work on.
@@ -8,7 +8,7 @@ import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
   return (
-    <ThirdwebProvider activeChain={RskTestnet}>
+    <ThirdwebProvider activeChain={AvalancheFuji}>
       <Component {...pageProps} />
     </ThirdwebProvider>
   );
