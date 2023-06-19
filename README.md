@@ -17,6 +17,7 @@
 | Reward Token contract address | https://testnet.snowtrace.io/address/0x0349dc9A9D2Da6A6F6b02AE6A3AFaD45C21f19E8 |
 | Demo en Avalanche Fuji | https://avalanchestaking.vercel.app/ |
 | Mint ERC20 Demo | https://avalanche-token-drop.vercel.app/ |
+| Mint ERC20 Github |https://github.com/RipioHackathon/avalanche-token-drop |
 | Landing | https://tukicard.xyz |
 
 ### Tech stack
